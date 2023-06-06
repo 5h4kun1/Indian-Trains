@@ -1,3 +1,4 @@
+
 # Indian-Trains
 # Famous Indian Locomotives
 
@@ -5,7 +6,7 @@ India has a rich history of locomotives, with several iconic trains that have pl
 
 ## 1. WAP-7
 
-![WAP-7](wap7.jpg)
+![WAP-7](https://upload.wikimedia.org/wikipedia/commons/4/41/WAP-7-LOCO.jpg)
 
 - **Introduction**: The WAP-7 is a high-speed electric locomotive primarily used for hauling express trains across India.
 
@@ -15,7 +16,7 @@ India has a rich history of locomotives, with several iconic trains that have pl
 
 ## 2. WDM-2
 
-![WDM-2](wdm2.jpg)
+![WDM-2]()
 
 - **Introduction**: The WDM-2, also known as the "ALCO" locomotive, is a diesel-electric locomotive widely used for both passenger and freight trains in India.
 
