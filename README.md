@@ -95,3 +95,46 @@ India has a rich history of locomotives, with several iconic trains that have pl
 
 - **Features**: It is designed for speeds up to 160 km/h and
 
+Certainly! Here are five more famous Indian locomotives:
+
+## 10. WDG-3A
+
+![WDG-3A](wdg3a.jpg)
+
+- **Introduction**: The WDG-3A is a diesel-electric locomotive primarily used for freight trains in India.
+- **Features**: It is known for its robust design, high tractive effort, and efficient hauling capabilities. The WDG-3A locomotive has a maximum speed of around 100 km/h and is widely used for heavy-haul operations.
+- **Manufacturer**: Manufactured by Diesel Locomotive Works (DLW).
+
+## 11. WAP-1
+
+![WAP-1](wap1.jpg)
+
+- **Introduction**: The WAP-1 is one of the earliest electric locomotives used in India.
+- **Features**: It played a significant role in the electrification of Indian Railways and was primarily used for passenger trains. The WAP-1 locomotive had a maximum speed of around 140 km/h and set the foundation for subsequent electric locomotives.
+- **Manufacturer**: Manufactured by Chittaranjan Locomotive Works (CLW).
+
+## 12. WDG-6G
+
+![WDG-6G](wdg6g.jpg)
+
+- **Introduction**: The WDG-6G is a broad-gauge diesel-electric locomotive used for freight trains in India.
+- **Features**: It is specifically designed for heavy-haul operations and is capable of handling large freight loads. The WDG-6G locomotive has a maximum speed of around 100 km/h and provides reliable and efficient performance.
+- **Manufacturer**: Manufactured by Diesel Locomotive Works (DLW).
+
+## 13. WAM-4P
+
+![WAM-4P](wam4p.jpg)
+
+- **Introduction**: The WAM-4P is an electric locomotive that was widely used for passenger and freight trains in India.
+- **Features**: It was an upgraded version of the WAM-4 locomotive, with improved performance and capabilities. The WAM-4P locomotive had a maximum speed of around 120 km/h and played a crucial role in the electrification of railway lines.
+- **Manufacturer**: Manufactured by Chittaranjan Locomotive Works (CLW).
+
+## 14. WDS-6
+
+![WDS-6](wds6.jpg)
+
+- **Introduction**: The WDS-6 is a shunting diesel locomotive used for marshaling and shunting operations in railway yards.
+- **Features**: It is known for its compact size, flexibility, and maneuverability. The WDS-6 locomotive is capable of operating on sharp curves and limited clearances, making it suitable for intricate yard operations.
+- **Manufacturer**: Manufactured by Diesel Locomotive Works (DLW).
+
+
