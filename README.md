@@ -16,7 +16,7 @@ India has a rich history of locomotives, with several iconic trains that have pl
 
 ## 2. WDM-2
 
-![WDM-2]()
+![WDM-2](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Changing_tracks_..._That%27s_our_life_-_Flickr_-_Dr._Santulan_Mahanta.jpg/1280px-Changing_tracks_..._That%27s_our_life_-_Flickr_-_Dr._Santulan_Mahanta.jpg)
 
 - **Introduction**: The WDM-2, also known as the "ALCO" locomotive, is a diesel-electric locomotive widely used for both passenger and freight trains in India.
 
@@ -29,7 +29,7 @@ India has a rich history of locomotives, with several iconic trains that have pl
 
 ## 3. WAP-4
 
-![WAP-4](wap4.jpg)
+![WAP-4](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ET_WAP4_22924.jpg/600px-ET_WAP4_22924.jpg)
 
 - **Introduction**: The WAP-4 is a versatile electric locomotive used for both passenger and freight trains in India.
 
@@ -39,7 +39,7 @@ India has a rich history of locomotives, with several iconic trains that have pl
 
 ## 4. WDG-4
 
-![WDG-4](wdg4.jpg)
+![WDG-4](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/GT46MAC-WDG4.jpg/1280px-GT46MAC-WDG4.jpg)
 
 - **Introduction**: The WDG-4, also known as the "Shakti" locomotive, is a powerful diesel-electric locomotive used for heavy-haul freight operations.
 
